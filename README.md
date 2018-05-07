@@ -1,0 +1,4 @@
+# Algorithms-for-sorting
+This project presents a multitude of solutions regarding the data sorting problem in a one-dimensional series of elements. In practice, there is often a need for sorting data, and therefore requires a more efficient and faster algorithm. In this paper, seven algorithms are shown in detail, two of which are parallelized (divided into four threads). Practical implementations of the sorting algorithms that were tested on sets of different sizes were also made.
+Some of these methods belong to the basic type of algorithms, for example, bubble sort and insertion varieties, while other algorithms belong to a more complex type of algorithm such as a quick sort.
+The aim of this paper is to compare the mentioned sorting algorithms and see how they behave through a number of elements of the sort we sort and how much improvement is brought about by the parallelization of a quick sort and a merge variety.
